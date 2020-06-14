@@ -8,6 +8,6 @@
 
 ### 代理细节
 
-## 3. 与Mbatis的整合
+## 3. 与Mybatis的整合
 
 ### Mybaits的使用步骤
